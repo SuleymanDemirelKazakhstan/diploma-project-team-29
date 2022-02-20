@@ -1,6 +1,6 @@
 # CSS 410 Research tools and methods
 ## Team members
-+ **Jet Lee** (*180100012*)- Backend Developer (GitHub account: *jetlee*)
++ **Aidana Yengsebek** (*180103292*)- Project manager (GitHub account: *jetlee*)
 + **Jacky Chan** (*180100013*) - Frontend Developer (GitHub account: *jackychan*)
 
 ## Project
