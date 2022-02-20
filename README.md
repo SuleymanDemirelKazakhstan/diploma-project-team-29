@@ -2,6 +2,7 @@
 ## Team members
 + **Aidana Yengsebek** (*180103292*)- Project manager (GitHub account: *jetlee*)
 + **Nurdaulet Omirbek** (*180103258*) - Web-designer (GitHub account: *jackychan*)
++ **Zhumatay Yerkebulan** (*180117012*) - Web- programmer 
 
 ## Project
 This project is yet-another clone of Instagram
