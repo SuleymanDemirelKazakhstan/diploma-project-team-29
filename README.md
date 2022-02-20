@@ -1,7 +1,7 @@
 # CSS 410 Research tools and methods
 ## Team members
 + **Aidana Yengsebek** (*180103292*)- Project manager (GitHub account: *jetlee*)
-+ **Jacky Chan** (*180100013*) - Frontend Developer (GitHub account: *jackychan*)
++ **Nurdaulet Omirbek** (*180103258*) - Web-designer (GitHub account: *jackychan*)
 
 ## Project
 This project is yet-another clone of Instagram
